@@ -3,9 +3,15 @@
 <img src="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Skyrim25%20Steam%20Logo%20ALT.png?raw=true" Height=300><br>
 </div>
 <div align=center><i>Skyrim as Todd intended.</i></div>
+<br>
+<p align="center">
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/161779">Nexus Page</a> |
+  README |
+  <a href="https://loadorderlibrary.com/lists/skyrim25">Load Order Library</a> |
+  <a href="https://discord.gg/Z99KaaGNgU">Join at Discord</a> ]
+</p>
 
 ----
-
 
 The bare minimum to make vanilla Skyrim playable in 2025 as it should have been at launch in 2011.
 
@@ -47,12 +53,57 @@ They can all be individually enabled or disabled as you see fit by clicking the 
 ### System Requirements
 If your PC can run vanilla Skyrim, it should be able to run Skyrim25. Refer to the official system requirements on Steam.
 
-**Processor:** Intel i5-2400/AMD FX-8320
-**Memory:** 8 GB RAM
-**Graphics:** NVIDIA GTX 780 3GB /AMD R9 290 4GB
+* **Processor:** Intel i5-2400/AMD FX-8320
+* **Memory:** 8 GB RAM
+* **Graphics:** NVIDIA GTX 780 3GB/AMD R9 290 4GB
 
-Additionally, Skyrim25 requires 
+Additionally, Skyrim25 requires approximately **57GB** of free disk space (around ~40GB for the install, and ~20GB for downloads, though you should probably have a little more than that to allow room for Wabbajack's temp files and such.
+>[!TIP]
+>You can choose separate locations for the modlist installation and the downloads folder – helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
 ### Prerequisites
-Skyrim25 requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/) (the full upgrade, not just SE!). While the AE Creation Club content is optional, it is still needed to properly install the list. Sorry!
+- You must own [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/) (the full upgrade, not just SE!) on Steam. While the AE Creation Club content is optional, it is still needed to properly install the list. Sorry!
+- You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
+    - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
+    - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
+    - [.NET Desktop Runtime 8.X.X x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
+>[!WARNING]
+>If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
 
+Then follow these steps:
+1. **Run Skyrim Once:**
+   - Launch the game to allow it to perform its initial graphics check. The settings will be replaced during installation, so there's no need to configure them now.
+2. **Download AE CC content:**
+   - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition. DO NOT ALT-TAB during this step, as it can cause the downloads to pause or outright fail!
+3. **Exit the game:**
+   - You are now ready to run Wabbajack!
+
+### Running Wabbajack
+
+>[!IMPORTANT]
+>The installation **may fail on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
+
+1. **Install Wabbajack:**
+   - Download and install [Wabbajack](https://www.wabbajack.org/).
+2. **Get Skyrim25:**
+   - Method 1 (from Wabbajack): Open Wabbajack, click "Browse Lists" then search for "Skyrim25". ‼️NOT CURRENTLY AVAILABLE (yet)! USE METHOD 2 
+   - Method 2 (from Nexus): Obtain the `Skyrim25.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/161779). Make sure to unzip the downloaded file.
+3. **Follow the Wabbajack Installation Procedure:**
+   - Refer to the section [_Installing a Modlist_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
+
+### If Installation Fails:
+Try *closing wabbajack completely* and restart the process from step 2 above ("Get Skyrim25"). Due to a bug with Wabbajack, using the "Retry" button is currently not reccomended and may cause unforseen issues.
+
+**Having other problems? Want to report a bug or send suggestions/feedback? Join the [Discord](https://discord.gg/Z99KaaGNgU)!**
+
+## Post-Installation
+1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
+2. Select a profile as described in the **Introduction -> Features** section above.
+2. Choose any optionals you would like as detailed in the **Introduction -> Optionals** section above.
+3. Hit the **Run** button in the top right corner and play! Or, alternatively, if you know what you're doing and want to use Skyrim25 as a base to build on, start modding!
+
+### Modifying the List
+
+Modifying the list should be pretty simple and the process is the same as using MO2 on your own. Download mod, install, organize, and sort. However, there are a few things specific to Skyrim25 you may want to note. 
+
+First, Skyrim25 stores all of its Mod Configuration files in their own "mod" under **Finalization & Outputs -> Skyrim25 Mod Configs**. If you want to change a mod's settings or add new configuration files, do it here. It is safe to rename this mod, as well as changing the name of the MO2 profile if desired. Additionally, you may want to replace the splash screen images. The image that shows up when you launch MO2 is stored in `[Skyrim25 install folder]\splash.png`, and the image shown when launching the game itself is in `[Skyrim25 install folder]\mods\Skyrim25 Mod Configs\Interface\splash.png`. Replace these images with whatever you want. Finally, remember to re-run Synthesis when you're done adding mods. Have fun!
