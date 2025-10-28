@@ -15,9 +15,9 @@ Built as a spiritual successor to SME, Skyrim25 aims to be a clean base to build
 ## Features and Notable Mods
 Skyrim25 provides two profiles: Special Edition and Anniversary Edition. Predictably, these control what Creation Club content is enabled, and their assorted patches. To change profiles, click the profiles dropdown above the left pane in MO2:
 
-[image]
+<img src="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/profiles%20dropdown.png?raw=true" Height=150><br>
 
-Some of the notable, largest mods included in the list are:
+**Some of the notable, largest mods included in the list are:**
  - Unofficial Skyrim Special Edition Patch - USSEP
    - Undo Certain USSEP Changes & Vanilla Purity Patch on top
  - Unofficial Skyrim Modder's Patch - USMP SE
@@ -41,6 +41,6 @@ Skyrim25 ships with a handful of optional mods you can choose to enable/disable 
 
 They can all be individually enabled or disabled as you see fit by clicking the checkbox to the left of the mod name in MO2:
 
-[gif]
+<img src="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/optional%20selection.gif?raw=true" Height=150><br>
 
 ## Adding mods
