@@ -43,4 +43,16 @@ They can all be individually enabled or disabled as you see fit by clicking the 
 
 <img src="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/optional%20selection.gif?raw=true" Height=200><br>
 
-## Adding mods
+# Installation
+### System Requirements
+If your PC can run vanilla Skyrim, it should be able to run Skyrim25. Refer to the official system requirements on Steam.
+
+**Processor:** Intel i5-2400/AMD FX-8320
+**Memory:** 8 GB RAM
+**Graphics:** NVIDIA GTX 780 3GB /AMD R9 290 4GB
+
+Additionally, Skyrim25 requires 
+### Prerequisites
+Skyrim25 requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/) (the full upgrade, not just SE!). While the AE Creation Club content is optional, it is still needed to properly install the list. Sorry!
+
+
