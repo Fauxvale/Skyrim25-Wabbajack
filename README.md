@@ -97,6 +97,7 @@ Try *closing wabbajack completely* and restart the process from step 2 above ("G
 **Having other problems? Want to report a bug or send suggestions/feedback? Join the [Discord](https://discord.gg/Z99KaaGNgU)!**
 
 ## Post-Installation
+### Running the Game
 1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
 2. Select a profile as described in the **Introduction -> Features** section above.
 2. Choose any optionals you would like as detailed in the **Introduction -> Optionals** section above.
