@@ -108,3 +108,12 @@ Try *closing wabbajack completely* and restart the process from step 2 above ("G
 Modifying the list should be pretty simple and the process is the same as using MO2 on your own. Download mod, install, organize, and sort. However, there are a few things specific to Skyrim25 you may want to note. 
 
 First, Skyrim25 stores all of its Mod Configuration files in their own "mod" under **Finalization & Outputs -> Skyrim25 Mod Configs**. If you want to change a mod's settings or add new configuration files, do it here. It is safe to rename this mod, as well as changing the name of the MO2 profile if desired. Additionally, you may want to replace the splash screen images. The image that shows up when you launch MO2 is stored in `[Skyrim25 install folder]\splash.png`, and the image shown when launching the game itself is in `[Skyrim25 install folder]\mods\Skyrim25 Mod Configs\Interface\splash.png`. Replace these images with whatever you want. Finally, remember to re-run Synthesis when you're done adding mods. Have fun!
+
+#### Credits
+**The Entire Modding Community** - For making one of my favorite games last forever.
+
+**The r/skyrimmods Discord** - For helping me learn how to mod and being a friendly place to hang out.
+
+**SEEYOULHATER** - For making Mages & Vikings, a list with system requirements so ridiculous it partially inspired me to make this list, lol. Also their readme is really nice and I copied some formatting from there verbatim. Thanks!
+
+**Bethesda Game Studios** - For making such an amazing, wonderfully broken game.
