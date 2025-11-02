@@ -62,6 +62,7 @@ Additionally, Skyrim25 requires approximately **57GB** of free disk space (aroun
 >You can choose separate locations for the modlist installation and the downloads folder – helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
 ### Prerequisites
 - You must own [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/) (the full upgrade, not just SE!) on Steam. While the AE Creation Club content is optional, it is still needed to properly install the list. Sorry!
+- Download and install the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) from Steam. Make sure to install to the same path as your Skyrim install.
 - You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
