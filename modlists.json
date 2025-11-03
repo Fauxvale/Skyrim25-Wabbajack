@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim25",
+    "description": "Skyrim as Todd intended. The bare minimum to make vanilla Skyrim playable in 2025 as it should have been at launch in 2011. A clean \"vanilla-ish\" base to build upon or just to play as-is. Some bugs are fixed, while others are kept intact, like the infamous fortify restoration loop - because bugs are part of the fun. Featuring cleaned textures for a slightly improved look, plus untouched vanilla gameplay and zero content mods. Featuring full CC and plain old Special Edition profiles.",
+    "author": "Fauxvale",
+    "maintainers": [
+      "github/Fauxvale"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+",
+      "Utility",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Fauxvale/Skyrim25-Wabbajack/main/Skyrim25.webp",
+      "readme": "https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Skyrim25.wabbajack_3122e8b2-be11-42ce-b086-f8a71de45194",
+      "machineURL": "Skyrim25",
+      "discordURL": "https://discord.gg/Z99KaaGNgU"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"Q8TrokhLydo=",
+      "Size":50099773,
+      "NumberOfArchives":443,
+      "SizeOfArchives":33021292787,
+      "NumberOfInstalledFiles":23043,
+      "SizeOfInstalledFiles":40253991613,
+      "TotalSize":73275284400
+    },
+    "version": "2.0.1"
+  }
+]
+
