@@ -102,6 +102,7 @@ Try *closing wabbajack completely* and restart the process from step 2 above ("G
 1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
 2. Select a profile as described in the **Introduction -> Features** section above.
 2. Choose any optionals you would like as detailed in the **Introduction -> Optionals** section above.
+3. Change your FOV by expanding the **Finalization & Outputs** separator, double clicking on `Skyrim25 Mod Configs -> Text Files -> Autorun.txt` and change `fov 90 90` to whatever you want, e.g. `fov 105 105`
 3. Hit the **Run** button in the top right corner and play! Or, alternatively, if you know what you're doing and want to use Skyrim25 as a base to build on, start modding!
 
 ### Modifying the List
