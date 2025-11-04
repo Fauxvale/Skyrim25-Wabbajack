@@ -17,20 +17,22 @@
 
 ### Version 2.0.1 (Save Safe):
 #### MODS
-UPDATED
+**UPDATED**
  - Papyrus Tweaks 4.1 -> 4.1.1
  - Skypatcher 6.0 -> 6.2
  - Sovngarde Meshes - FIXES - 1.3 -> 1.4
  - Assorted mesh fixes - 0.130 -> 0.131
  - Enhanced Invisibility - 1.3.0 -> 1.4.1
  - Navigator - Navmesh Fixes - 1.6.3 -> 1.7.1
-REMOVED
+
+**REMOVED**
  - Sound Hammering Sounds (included in USMP)
-ADDED
+
+**ADDED**
  - None
 
 - Other Changes - 
  - Updated README to include that you need the Creation Kit. Oops!
  - Re-organized various mods into more new separators for better clarity
 
-Version 2.0.0 - Initial Release.
+### Version 2.0.0 - Initial Release.
