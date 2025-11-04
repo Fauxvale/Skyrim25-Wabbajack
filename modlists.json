@@ -1,41 +1,44 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Skyrim25",
-    "description": "Skyrim as Todd intended. The bare minimum to make vanilla Skyrim playable in 2025 as it should have been at launch in 2011. A clean \"vanilla-ish\" base to build upon or just to play as-is. Some bugs are fixed, while others are kept intact, like the infamous fortify restoration loop - because bugs are part of the fun. Featuring cleaned textures for a slightly improved look, plus untouched vanilla gameplay and zero content mods. Featuring full CC and plain old Special Edition profiles.",
+    "description": "Skyrim as Todd intended. The bare minimum to make vanilla Skyrim playable in 2025 as it should have been at launch in 2011. A clean \u0022vanilla-ish\u0022 base to build upon or just to play as-is. Some bugs are fixed, while others are kept intact, like the infamous fortify restoration loop - because bugs are part of the fun. Featuring cleaned textures for a slightly improved look, plus untouched vanilla gameplay and zero content mods. Featuring full CC and plain old Special Edition profiles.",
     "author": "Fauxvale",
     "maintainers": [
       "github/Fauxvale"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Utility"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fauxvale/Skyrim25-Wabbajack/main/Skyrim25.webp",
       "readme": "https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim25.wabbajack_3122e8b2-be11-42ce-b086-f8a71de45194",
+      "download": "https://authored-files.wabbajack.org/Skyrim25.wabbajack_c98d8cd7-ea3f-4903-b6b5-823e8b74ddea",
       "machineURL": "Skyrim25",
-      "discordURL": "https://discord.gg/Z99KaaGNgU"
+      "discordURL": "https://discord.gg/Z99KaaGNgU",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"Q8TrokhLydo=",
-      "Size":50099773,
-      "NumberOfArchives":443,
-      "SizeOfArchives":33021292787,
-      "NumberOfInstalledFiles":23043,
-      "SizeOfInstalledFiles":40253991613,
-      "TotalSize":73275284400
+      "Hash": "oB5uV0pHCOw=",
+      "Size": 50170566,
+      "NumberOfArchives": 443,
+      "SizeOfArchives": 33018174752,
+      "NumberOfInstalledFiles": 23042,
+      "SizeOfInstalledFiles": 40229011093,
+      "TotalSize": 73247185845
     },
-    "version": "2.0.1"
+    "version": "2.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-04T19:55:54.4976727Z",
+    "repositoryName": ""
   }
 ]
-
