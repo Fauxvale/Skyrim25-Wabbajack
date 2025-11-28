@@ -26,8 +26,6 @@ Skyrim25 provides two profiles: Special Edition and Anniversary Edition. Predict
 **Some of the notable, largest mods included in the list are:**
  - Unofficial Skyrim Special Edition Patch - USSEP
    - Undo Certain USSEP Changes & Vanilla Purity Patch on top
- - Unofficial Skyrim Modder's Patch - USMP SE
-   - USMP includes a lot of popular bugfixes! Before adding additional fixes and patches, make sure to check if USMP already includes them!
  - (AE Profile Only) Unofficial Skyrim Creation Club Content Patches (USCCCP)
  - Skyrim Misc Bugfix Compilation
  - Cleaned Skyrim SE/AE Textures
