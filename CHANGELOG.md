@@ -1,4 +1,23 @@
 ## Releases
+### __Skyrim25 2.0.5:__
+#### MODS
+
+**UPDATED**
+ - powerofthree's Papyrus Extender 6.2.1 -> 6.3.0
+ - SkyPatcher 6.2.1 -> 6.3.1
+ - Lightened Skyrim - Base Object Swapper edition 1.09 -> 1.10
+ - Assorted mesh fixes 0.131 -> 0.136
+ - Favorite Misc Items 3.7.1 -> 4.0.0
+
+**REMOVED**
+ - None
+
+**ADDED**
+ - None
+
+**Other Changes** 
+ - Fixed Load Order
+
 ### __Skyrim25 2.0.4:__
 #### MODS
 
