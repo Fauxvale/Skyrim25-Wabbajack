@@ -1,4 +1,36 @@
 ## Releases
+### __Skyrim25 2.0.6:__
+#### MODS
+
+**UPDATED**
+ - Kezyma's Root Builder for Mod Organizer 5.0.5 -> 5.1.1
+ - SSE Engine Fixes 7.0.19 -> 7.0.20
+ - Crash Logger SSE AE VR - PDB support 1.16 -> 1.20.1
+ - Modex - A Mod Explorer Menu (AddItemMenu) 1.2.3 -> 2.2.0 
+ - Ultimate Optimized Scripts Compilation 1.6 -> 1.83
+ - Robber's Gorge Fixes 2.2 -> 2.3
+ - Assorted mesh fixes 0.136 ->  0.139.1
+ - Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K. 1.3.1 -> 1.3.2
+ - Comprehensive Attack Rate Patch - SKSE 1.1.2.14 -> 1.1.2.15
+ - Alt-Tab Stuck Key Fix NG 1.1 -> 1.3.1
+ - Stagger Effect Fix 1.0.2 -> 1.0.3
+ - Mfg Fix NG 1.0.4 -> 1.0.7a
+ - Exit Sneak On Sprint 1.2 -> 1.2.1
+
+**REMOVED**
+ - Optional Quick Start - SE (out of scope)
+ - Optional Quick Start - Immersive and Sensible Gear (out of scope)
+
+**ADDED**
+ - Item Stacking Tweaks SKSE
+ - Hide Buttons Mod Organizer 2 Plugin - Biggie Edition
+ - Bethesda Plugin Manager MO2 Plugin
+
+ **Other Changes** 
+ - `always_restore_choices` in FOMOD Plus config set to `false`
+ - Bethesda Plugin Manager `external_change_warning` and `enable_sort_button` set to false
+ - Resorted Plugin Load Order by hand
+
 ### __Skyrim25 2.0.5:__
 #### MODS
 
