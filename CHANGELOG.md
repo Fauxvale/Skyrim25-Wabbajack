@@ -1,4 +1,19 @@
 ## Releases
+### __Skyrim25 2.0.7:__
+#### MODS
+
+**UPDATED**
+ - None
+
+**REMOVED**
+  - Item Stacking Tweaks SKSE (buggy, pretty sure it was causing duplication glitches 💀)
+
+**ADDED**
+ - None
+
+**Other Changes** 
+ - None
+
 ### __Skyrim25 2.0.6:__
 #### MODS
 
