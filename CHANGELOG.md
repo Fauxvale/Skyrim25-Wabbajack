@@ -1,4 +1,85 @@
 ## Releases
+# Version 2.1.0
+
+### Summary
+
+Skyrim25 v2.1.0 is a save-safe update that brings many improvements, including but not limited to:
+- SkyUI 6.11!
+ - Ultrawide Support
+- Removal of several redundant, useless, flawed, or otherwise undesireable mods
+- Complete re-sorting of the load order in both the left and right panel for both profiles
+- Better UX in MO2 thanks to some new plugins and updates
+- Updated Synthesis
+- Even moar fixes!!!!
+
+### Mod Summary
+
+- **Added:** 6 mods
+- **Removed:** 15 mods
+- **Updated:** 17 mods
+
+### Misc Changes
+
+ - Updated FOMOD Plus MO2 Plugin to 1.17 → 1.20.1
+ - Fixed and Improved Various Issues With Load Order on Both Profiles
+ - Fixed Some Inconsistencies Between the Two Profiles
+ - Resorted Various Mods
+ - Resorted Load Order by Hand for Better Clarity & Organization
+ - Swapped Out Some Mods for Better Alternatives (Better Performance, Less Bugs, Lower Plugin Count)
+
+## Added Mods
+
+- SKYRIM25 DUMMY PLUGINS (just placeholder plugins for preserving load order with optional mods)
+- Consistent Sensitivity Overhaul (should have less issues than previous sensitivity mod)
+- Lingering Subtitles Fix
+- ShowRaceMenu - NG
+- Stuck on Screen Auto Load Door Fix SKSE
+- Zero Bounty Hostility Fix SKSE
+
+## Removed Mods
+
+- Better Dialogue Controls (redundant with SkyUI 6)
+- Better MessageBox Controls (redundant with SkyUI 6)
+- Congruent Sensitivity - SSE - with Aiming (redundant)
+- Dwemer Ballista Crash fix (completely redundant with Skyrim Misc Bugfix Comp. Oops.)
+- Favorite Things - Extended Favorites Menu for SkyUI (breaks with SkyUI6)
+- Master Occlusion Field (shows up in crash logs a lot for obvious reasons, which may confuse the end user and provides little to zero perf gains)
+- NVIDIA Reflex Support (breaks with latest CS, better to just not use it at all to avoid confusion for end user)
+- Fullscreen MCM Menu for SkyUI (redundant with SkyUI 6)
+- Quest Journal Fix for SkyUI (redundant with SkyUI 6)
+- SkyUI - Ghost Item Bug Fix (redundant with SkyUI 6)
+- SkyUI - Survival Mode Integration (redundant with SkyUI 6)
+- SkyUI 3D Item Offset Fix (Centered Item Card - Script Fix - Improvement) (incompatible with SkyUI6)
+- SkyUI Vanilla Menus (breaks some features of SkyUI6)
+- Stuck on Screen Load Door Prompt Fix (redundant)
+- Zero Bounty Hostility Fix (redundant)
+
+## Updated Mods
+
+- SkyUI: 5.2SE → 6.11 (yipee!)
+- MCM Helper: 1.5 → 1.6.2
+- Unofficial Skyrim Special Edition Patch - USSEP: 4.3.6c → 4.3.8alpha
+- Assorted mesh fixes: 0.139.1 → 0.139.2
+- Crash Logger SSE AE VR - PDB support: 1.20.1 → 1.23.2
+- Creation Kit Platform Extended for Skyrim: 0.6-b434 → 0.6-b550
+- Disable USSEP Unwanted Effects Book Updated & Expanded: 4.3.6c → 4.3.8alpha
+- Fish Plaque Fixes and Improvements: 0.2 → 0.3
+- LeveledList Crash Fix: 1.1.1 → 2.0
+- Load Screen Shading Fix: 0.4 → 0.5
+- Mfg Fix NG: 1.0.7alpha → 1.0.9
+- Modex - A Mod Explorer Menu (AddItemMenu): 2.2 → 3.0
+- Navigator - Navmesh Fixes: 1.8 → 1.8.1
+- powerofthree's Papyrus Extender: 6.3 → 6.4
+- Robber's Gorge Fixes: 2.3 → 2.4
+- SkyPatcher: 6.3.1 → 6.4.2
+- Spell Perk Item Distributor (SPID): 7.1.3 → 7.3.1
+
+
+
+
+
+
+
 ### __Skyrim25 2.0.7:__
 #### MODS
 
