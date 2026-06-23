@@ -37,11 +37,9 @@ and many, many more!
 
 ### Optionals
 Skyrim25 ships with a handful of optional mods you can choose to enable/disable as you see fit. These include:
- - SkyUI Vanilla Menus
  - Smaller Vanilla Cursors SE
- - NVIDIA Reflex Support
  - Modex - A Mod Explorer Menu (AddItemMenu)
- - Congruent Sensitivity - SSE - with Aiming
+ - Consistent Sensitivity Overhaul
 
 They can all be individually enabled or disabled as you see fit by clicking the checkbox to the left of the mod name in MO2:
 
