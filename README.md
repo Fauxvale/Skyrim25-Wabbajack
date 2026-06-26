@@ -103,7 +103,7 @@ Try *closing wabbajack completely* and restart the process from step 2 above ("G
 
 ### Modifying the List
 
-Modifying the list should be pretty simple and the process is the same as using MO2 on your own. Download mod, install, organize, patch and sort. However, there are a few things specific to Skyrim25 you may want to note. 
+Modifying the list should be pretty simple and the process is the same as using MO2 on your own. Download mod, install, organize, patch and sort. **Have a look at the [official reccomended mods list](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Reccomended%20Mods%20to%20Add%20to%20Skyrim25.md).** Additionally, there are a few things specific to Skyrim25 you may want to note. 
 
 First, Skyrim25 stores all of its Mod Configuration files in their own "mod" under **Finalization & Outputs -> Skyrim25 Mod Configs**. If you want to change a mod's settings or add new configuration files, do it here. It is safe to rename this mod, as well as changing the name of the MO2 profile if desired. Additionally, you may want to replace the splash screen images. The image that shows up when you launch MO2 is stored in `[Skyrim25 install folder]\splash.png`, and the image shown when launching the game itself is in `[Skyrim25 install folder]\mods\Skyrim25 Mod Configs\Interface\splash.png`. Replace these images with whatever you want. Finally, remember to re-run Synthesis when you're done adding mods. Have fun!
 
