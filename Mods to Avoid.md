@@ -46,6 +46,6 @@ These mods were removed specifically because they introduced crashes, duplicatio
 
 - **Item Stacking Tweaks SKSE** - Buggy. Suspected cause of item duplication glitches. Not worth the risk.
 - **Master Occlusion Field** - Appears frequently in crash logs due to its nature, which makes crash analysis harder and more confusing for end users. Provides little to no real performance benefit in exchange.
-- **NVIDIA Reflex Support** - Breaks with the latest version of CommunityShaders. The conflict is significant enough that it is better to simply not use this mod at all rather than troubleshoot compatibility going forward.
+- **NVIDIA Reflex Support** - Already included with the latest version of Community Shaders. I've found it is better to simply not use this mod at all rather than troubleshoot compatibility going forward. You can use it if you're not using CS upscaling, I just removed it to avoid confusion for people who do.
 
 ### Also see [Recommended Mods to Add](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Reccomended%20Mods%20to%20Add%20to%20Skyrim25.md)
