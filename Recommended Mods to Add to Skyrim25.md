@@ -9,7 +9,6 @@ This guide lists common add-on mods people may want to use with **Skyrim25**, gr
 - **Re-run the FOMOD** for [Undo Certain USSEP Changes](https://www.nexusmods.com/skyrimspecialedition/mods/72083) - Included in Skyrim25, this mod contains some bug *un-*fixes that you may or may not like, so take a look through the FOMOD and see what you want to keep or not.
 - [Vendor Respawn Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43532?tab=files) - Optional File from Scrambled Bugs. Not included in Skyrim25 as it's one of the bugs that makes Skyrim Skyrim and I don't want it fixed when I'm trying to just play the vanilla game.
 - [Killmove Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/140398) - Helps prevent broken killmoves and animation edge cases, especially if you use modern combat mods.
-- [Critter Fixes by wSkeever](https://www.nexusmods.com/skyrimspecialedition/mods/180956) - Fixes critter collision and interaction issues.
 - [Stuck on Sleeper Fix](https://www.nexusmods.com/skyrimspecialedition/mods/131173) - Lets you escape a specific bed-related stuck state if that mesh ever traps your character. Not included in the base list as I think this bug is funny, if annnoying, lol.
 
 
