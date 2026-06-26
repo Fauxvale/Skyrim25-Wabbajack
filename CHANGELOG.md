@@ -1,4 +1,28 @@
 ## Releases
+# Version 2.1.1
+
+### Summary
+- **Added:** 1 mod
+- **Removed:** 0 mods
+- **Updated:** 0 mods
+
+## Added Mods
+
+- Critter Fixes
+
+## Removed Mods
+
+No Mods Removed
+
+## Updated Mods
+
+No mods updated.
+
+## Other Changes
+
+- Fixed Consistent Sensitivity Overhaul not being properly installed.
+
+
 # Version 2.1.0
 
 ### Summary
