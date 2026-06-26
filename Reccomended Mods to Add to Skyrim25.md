@@ -32,6 +32,7 @@ This guide lists common add-on mods people may want to use with **Skyrim25**, gr
 - [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583) - Helps smooth out gradient effects.
 - [Seamless Cubemaps](www.nexusmods.com/skyrimspecialedition/mods/84331) - Reduces reflection seams on shiny materials.
 - [Seamless Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/154408) - Improves dynamic reflections so they blend more naturally.
+- [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322) — Replaces forge water with a mesh-only animated version that adds refraction and a nicer visual effect without needing an ESP.
 
 ## Even MOAR Mesh Mods by Yuril, wSkeever, and Pieter82
 
