@@ -2,6 +2,8 @@
 
 This guide lists common add-on mods people may want to use with **Skyrim25**, grouped by Category. Each entry includes a short reason the mod may be worth adding and a Nexus link to download them :3
 
+### Also see [Mods to Avoid](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Mods%20to%20Avoid.md)
+
 ## Additional General Fixes
 
 - **Re-run the FOMOD** for [Undo Certain USSEP Changes](https://www.nexusmods.com/skyrimspecialedition/mods/72083) - Included in Skyrim25, this mod contains some bug *un-*fixes that you may or may not like, so take a look through the FOMOD and see what you want to keep or not.
