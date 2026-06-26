@@ -16,11 +16,12 @@ No Mods Removed
 
 ## Updated Mods
 
-No mods updated.
+No Mods Updated.
 
 ## Other Changes
 
 - Fixed Consistent Sensitivity Overhaul not being properly installed.
+- Wrote new [Recommended Mods to Add](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Recommended%20Mods%20to%20Add%20to%20Skyrim25.md) and [Mods to Avoid](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Mods%20to%20Avoid.md) docs at the top of the README. I hope these documents help you on your modding adventures! They will continue to be updated alongside the list as time goes on.
 
 
 # Version 2.1.0
