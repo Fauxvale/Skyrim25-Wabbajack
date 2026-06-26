@@ -1,4 +1,4 @@
-# Skyrim25 Add-on Guide
+# Skyrim25 Recommended Mods Guide
 
 This guide lists common add-on mods people may want to use with **Skyrim25**, grouped by Category. Each entry includes a short reason the mod may be worth adding and a Nexus link to download them :3
 
@@ -29,6 +29,9 @@ This guide lists common add-on mods people may want to use with **Skyrim25**, gr
 - [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901) - Improves the appearance of books. I recommend the "desaturated" file, as well as the [Normal Map Fix](www.nexusmods.com/skyrimspecialedition/mods/68934)
 - [Detailed Rugs](https://www.nexusmods.com/skyrimspecialedition/mods/9030) - Adds vanilla-adjacent lore-friendly high-resolution rug textures and improved meshes.
 - [Various 3D Trellis mods](https://www.nexusmods.com/games/skyrimspecialedition/mods?keyword=trellis&sort=endorsements) - Better if you want trellises to look like real 3D objects instead of thin flat pieces.
+- [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583) - Helps smooth out gradient effects.
+- [Seamless Cubemaps](www.nexusmods.com/skyrimspecialedition/mods/84331) - Reduces reflection seams on shiny materials.
+- [Seamless Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/154408) - Improves dynamic reflections so they blend more naturally.
 
 ## Even MOAR Mesh Mods by Yuril, wSkeever, and Pieter82
 
@@ -42,9 +45,6 @@ This guide lists common add-on mods people may want to use with **Skyrim25**, gr
 - [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144) - Improves Solstheim's ash and moss surfaces.
 - [FixTheFuckingSnow - Fix Candlehall and Palace of the Kings stretched snow - Actually consistent snow coverage 14 YEARS LATER](https://www.nexusmods.com/skyrimspecialedition/mods/148199) - Fixes a very specific stretched-snow issue on tCandlehearth Hall and the Palace of Kings. Make sure to pick the right version for the mods you're using.
 - [Enhanced Rocks and Mountains (ERM)](https://www.nexusmods.com/skyrimspecialedition/mods/121336) - Improves rock and mountain surfaces for an improved material look. I reccomend the Main File and "Blended ERM".
-- [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583) - Helps smooth out gradient effects.
-- [Seamless Cubemaps](www.nexusmods.com/skyrimspecialedition/mods/84331) - Reduces reflection seams on shiny materials.
-- [Seamless Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/154408) - Improves dynamic reflections so they blend more naturally.
 - [Blended Roads](www.nexusmods.com/skyrimspecialedition/mods/8834) - Makes roads blend better into the terrain. I recommend the "REALly blended" option in the FOMOD.
 - [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643) - Patches small blended roads inconsistencies.
 - [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032) - Smooths out road surfaces with BOS - highly compatible.
