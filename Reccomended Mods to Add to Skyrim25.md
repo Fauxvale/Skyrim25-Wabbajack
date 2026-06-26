@@ -50,6 +50,20 @@ This guide lists common add-on mods people may want to use with **Skyrim25**, gr
 - [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032) - Smooths out road surfaces with BOS - highly compatible.
 - [Simplicity of Sea (Water Mod)](https://www.nexusmods.com/skyrimspecialedition/mods/56520) and [Davo0411's Addon for it](www.nexusmods.com/skyrimspecialedition/mods/148761) - Light, clean sea-water visuals that fit a vanilla-plus setup.
 
+## Community Shaders
+
+- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - A free, open-source rendering framework that modernizes Skyrim's graphics pipeline and serves as the base for many newer visual add-ons.
+
+## ENB
+
+- [ENB](https://enbdev.com/) - A long-standing graphics framework used to apply advanced post-processing, lighting, and color effects to Skyrim.
+
+### Note on Community Shaders vs ENB
+
+Community Shaders is usually the better pick if you want a lighter, more modular setup with strong modern support and easier compatibility with a vanilla-plus modlist. ENB is still the more established option for presets and such, but CS is more modern and made by someone who isn't a [bigot](https://www.reddit.com/r/skyrimmods/comments/15sacyi/ootl_why_the_fuck_is_there_a_weird_mildly/).
+
+As of June 2026, Community Shaders is the more future-facing framework, especially as it continues adding features like native HDR support and new rendering extensions. ENB remains the "classic" choice for users who care most about a heavily stylized final image and are willing to pay for it in performance and complexity. ENB also **does not support** PBR, while CS does with it's TruePBR module *(included in the Core download)*.
+
 ## Combat and HUD
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Modernizes combat HUD info and pairs well with third-person combat improvements.
