@@ -9,6 +9,7 @@
   README |
   <a href="https://loadorderlibrary.com/lists/skyrim25">Load Order Library</a> |
   <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Reccomended%20Mods%20to%20Add%20to%20Skyrim25.md">Recommended Mods</a> |
+  <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Mods%20to%20Avoid.md">Mods to Avoid</a> |
   <a href="https://discord.gg/Z99KaaGNgU">Join at Discord</a> ]
 </p>
 
