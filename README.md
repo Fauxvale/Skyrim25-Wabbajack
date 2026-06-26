@@ -30,6 +30,7 @@ Skyrim25 provides two profiles: Special Edition and Anniversary Edition. Predict
    - Undo Certain USSEP Changes & Vanilla Purity Patch on top
  - (AE Profile Only) Unofficial Skyrim Creation Club Content Patches (USCCCP)
  - Skyrim Misc Bugfix Compilation
+ - Assorted Mesh Fixes
  - Cleaned Skyrim SE/AE Textures
  - SkyUI
    - and it's assorted fixes
