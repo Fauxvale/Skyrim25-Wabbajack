@@ -74,6 +74,12 @@ As of June 2026, Community Shaders is the more future-facing framework, especial
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Makes third-person movement more flexible and responsive, especially in combat.
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - A highly configurable third-person camera that smooths movement, improves aiming, and makes Skyrim's camera feel more modern and less jittery.
 
+## User Interface
+- [FLICK](https://www.nexusmods.com/skyrimspecialedition/mods/181603) - A lightweight framework mod used as a dependency by some newer mods, including RaceMenu Enhancer. Install this if anything in your setup asks for it.
+- [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - A comprehensive character creation and appearance overhaul that replaces the vanilla menu with far more controls - sliders, overlays, sculpting tools, custom presets and more. Pretty much essential if you care about character customization at all.
+- [RaceMenu(SKEE) cosave Load Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/173617) - Fixes a crash that can occur on load when certain actor cosave data is present. Worth having if you use RaceMenu and run into mysterious load crashes.
+- [RaceMenu Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/182536) - Adds extra functionality and quality-of-life improvements on top of RaceMenu. Requires **FLICK** as a dependency, so make sure that's installed first.
+
 ## Audio
 
 - [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) - Broadly refreshes Skyrim's soundscape.
