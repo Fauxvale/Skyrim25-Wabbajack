@@ -1,6 +1,7 @@
 # Skyrim25 Recommended Mods Guide
 
 This guide lists common add-on mods people may want to use with **Skyrim25**, grouped by Category. Each entry includes a short reason the mod may be worth adding and a Nexus link to download them :3
+
 _Note: Many essential mods are already included in Skyrim25 and are not listed here. This guide only covers mods you may want to add on top of the base list._
 
 ### Also see [Mods to Avoid](https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Mods%20to%20Avoid.md)
