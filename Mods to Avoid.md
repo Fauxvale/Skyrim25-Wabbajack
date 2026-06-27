@@ -2,7 +2,7 @@
 
 The following mods are flagged as redundant, incompatible, buggy, or otherwise undesirable. Avoid adding these to any load order built on or inspired by Skyrim25.
 
-### Refer to Moddinglinked's [Safe Modding Practices](https://dragonbornsfate.moddinglinked.com/safe-modding.html) page (especially the Mods to Avoid) for even more helpful info and tips.
+### Refer to Moddinglinked's [Safe Modding Practices](https://dragonbornsfate.moddinglinked.com/safe-modding.html) page (especially the Mods and Tools to Avoid) for even more helpful info and tips.
 
 ## Big Mods to Avoid
 
