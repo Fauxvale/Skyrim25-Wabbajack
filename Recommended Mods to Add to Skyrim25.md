@@ -99,7 +99,7 @@ Skyrim25 by default does not include any Alternate Start mod, and if you've play
  - [Optional Quick Start add-on](https://www.nexusmods.com/skyrimspecialedition/mods/158597) - An addon for Optional Quick Start; Makes the starting gear less overpowered and more *immersive*.
  - [Intuitive Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/181066) - A companion add-on that moves the choice into the start menu, which makes the quick-start selection feel cleaner and more integrated.
 - [Skyrim Isekai](https://www.nexusmods.com/skyrimspecialedition/mods/182136) - A more thematic alternate-start option mostly for shits and giggles - what it says on the tin.
-- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) - A popular alternate start that lets you watch Helgen's destruction from a different viewpoint and begin in a more immersive way.
+- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) - A popular alternate start that lets you watch Helgen's destruction from a different viewpoint and choose from a variety of alternate starts - also has the best addon support.
 - [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) - A highly flexible start mod with many configuration options, including the ability to play as a non-Dragonborn character.
 
 ## Animation Frameworks
