@@ -115,6 +115,8 @@ First, Skyrim25 stores all of its Mod Configuration files in their own "mod" und
 
 **The r/skyrimmods Discord** - For helping me learn how to mod and being a friendly place to hang out.
 
+**Simon Magus' Discord** - For being a positive place to hang out, learn to mod and get great feedback on this list.
+
 **SEEYOULHATER** - For making Mages & Vikings, a list with system requirements so ridiculous it partially inspired me to make this list, lol. Also their readme is really nice and I copied some formatting from there verbatim. Thanks!
 
 **huhuuu8016** of ElderTeej documentation fame - For helping me write the "Mods to Avoid" documentation and providing tips. In particular, I used their concise explanation of Open Cities verbatim. Thanks!
