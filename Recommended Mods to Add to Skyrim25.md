@@ -112,7 +112,7 @@ As of June 2026, Community Shaders is the more future-facing framework, especial
 ## Alternate Start
 Skyrim25 by default does not include any Alternate Start mod, and if you've played the game before, you probably want one.
 - [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - A straightforward alternate-start option that lets you begin near the end of Helgen Keep instead of playing through the full intro.
-- [Optional Quick Start add-on](https://www.nexusmods.com/skyrimspecialedition/mods/158597) - An addon for Optional Quick Start; Makes the starting gear less overpowered and more *immersive*.
+- [Optional Quick Start - Immersive and Sensible Gear](https://www.nexusmods.com/skyrimspecialedition/mods/158597) - An addon for Optional Quick Start; Makes the starting gear less overpowered and more *immersive*.
 - [Intuitive Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/181066) - A companion add-on that moves the choice into the start menu, which makes the quick-start selection feel cleaner and more integrated.
 - [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) - A popular alternate start that lets you watch Helgen's destruction from a different viewpoint and choose from a variety of alternate starts - also has the best addon support.
 - [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) - A highly flexible start mod with many configuration options, including the ability to play as a non-Dragonborn character.
