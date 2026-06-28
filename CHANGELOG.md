@@ -1,4 +1,26 @@
 ## Releases
+# Version 2.1.2
+
+## Summary
+Fixed a bug where MO2's content filters weren't working properly. The culprit was FOMOD Plus' `show_fomod_filter` option, which was breaking other Content tags. Disabling it restores filter functionality - the tradeoff is that you can no longer filter by FOMODs or see the wizard hat icon on mods that have one.
+
+- **Added:** 0 mods
+- **Removed:** 1 mod
+- **Updated:** 1 mod
+### Added Mods
+
+- No Mods Added
+### Removed Mods
+- Arcane Blacksmith's Apron - Hood Fixes - Adds a custom texture for the arcane blacksmith hood that clashes visually with mods like Robes Retexture SE by Xavbio. The improvement is marginal enough that it's better to skip it and let Robes Retexture handle coverage instead - there's no hard conflict, just an aesthetic mismatch. Keep it if you want, but its gone from Skyrim25 going forward.
+### Updated Mods
+
+- Assorted mesh fixes: 0.139.2 → 0.139.3
+
+## Other Changes
+- FOMOD Plus MO2 Plugin: set `show_fomod_filter` to `false` in config
+- Added custom 1809 Dark Mode "Faux Edit" MO2 Theme - new Default
+- Added Endorsement Helper Tool for Mod Organizer 2 Plugin
+
 # Version 2.1.1
 
 ### Summary
