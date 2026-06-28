@@ -1,4 +1,18 @@
-# Skyrim25 - Mods to Avoid
+<div align="center">
+<img src="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Skyrim25%20Steam%20Logo%20ALT.png?raw=true" Height=300><br>
+</div>
+<div align=center><i>Skyrim as Todd intended.</i></div>
+<br>
+<p align="center">
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/161779">Nexus Page</a> |
+  README |
+  <a href="https://loadorderlibrary.com/lists/skyrim25">Load Order Library</a> |
+  <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Reccomended%20Mods%20to%20Add%20to%20Skyrim25.md">Recommended Mods</a> |
+  <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Mods%20to%20Avoid.md">Mods to Avoid</a> |
+  <a href="https://discord.gg/Z99KaaGNgU">Join at Discord</a> ]
+</p>
+
+# Mods to Avoid
 
 The following mods are flagged as redundant, incompatible, buggy, or otherwise undesirable. Avoid adding these to any load order built on or inspired by Skyrim25.
 
