@@ -7,7 +7,7 @@
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/161779">Nexus Page</a> |
   <a href=https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/README.md>README</a> |
   <a href="https://loadorderlibrary.com/lists/skyrim25">Load Order Library</a> |
-  <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Reccomended%20Mods%20to%20Add%20to%20Skyrim25.md">Recommended Mods</a> |
+  <a href="https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/Recommended%20Mods%20to%20Add%20to%20Skyrim25.md">Recommended Mods</a> |
   Mods to Avoid |
   <a href="https://discord.gg/Z99KaaGNgU">Join at Discord</a> ]
 </p>
