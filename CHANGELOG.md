@@ -13,6 +13,37 @@
 </p>
 
 ## Releases
+# Version 3.0.0
+
+## Summary
+A small but meaningful maintenance update. NOT SAVE-SAFE. Two mods by the same author - Skyrim Misc Bugfix Compilation and Vanilla Purity Patch - have been removed due to quality concerns and conflicts with other fixes in the list. The Dwemer Ballista crash fix has been re-added to cover what Misc Bugfix Compilation was handling. Two bespoke patches for Butterflies Land True have been added. The entire load order has been re-sorted and method patched to ensure all remaining conflicts are intentional.
+
+- **Added:** 3 mods
+- **Removed:** 3 mods
+- **Updated:** 0 mods
+
+### Added Mods
+
+- Butterflies Land True - CC Patch (bespoke patch for Skyrim25)
+- Butterflies Land True - USCCCP Patch (bespoke patch for Skyrim25)
+- Dwemer Ballista Crash fix - Needed again now that I removed Skyrim misc bugfix comp. See removed mods for details
+
+### Removed Mods
+
+- Skyrim Misc Bugfix Compilation & CC Addon - Removed due to the author acknowledging inconsistent quality control and the mod being abandoned with no further updates planned.
+- Vanilla Purity Patch - Removed due to philosophical conflicts with the list's approach - the mod explicitly preserves behavior that other included fixes treat as bugs, and is maintained by the same author as the above.
+
+### Updated Mods
+
+No mods updated.
+
+### Other Changes
+Resorted entire load order in plugins panel (again) for better organization and ease of modifying the list. Also reordered some mods in left panel. Also went through and ""method patched"" the entire list to ensure all conflicts are intentional and safe to ignore - hooray!! This update will not be shipping with ModGroups I created however, as ModGroups are calibrated to a specific load order and will silently suppress conflict warnings that may become real issues if you add, remove, or reposition mods as you modify the list.
+
+### Known Issues
+
+In my testing, 3 mods that are supposed to be in the "MOD STORAGE" separator on the Special Edition profile might show up at the bottom of the left pane instead. This is harmless and should be fixed in the next update, don't worry about it, its only cosmetic. Feel free to move them back to Mod Storage.
+
 # Version 2.1.2
 
 ## Summary
