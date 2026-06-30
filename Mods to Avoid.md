@@ -20,7 +20,7 @@ The following mods are flagged as redundant, incompatible, buggy, or otherwise u
 
 ## Big Mods to Avoid
 
-- **LOOT (Load Order Optimization Tool)** - Don't run LOOT on Skyrim25, especially if you're adding or removing mods. Per Moddinglinked's [Safe Modding Practices](dragonbornsfate.moddinglinked.com/safe-modding.html) page:
+- **LOOT (Load Order Optimization Tool)** - DO NOT run LOOT on Skyrim25, especially if you're adding or removing mods. Per Moddinglinked's [Safe Modding Practices](dragonbornsfate.moddinglinked.com/safe-modding.html) page:
     > LOOT doesn't really have any idea about your mods and their inner structure - it just orders them based on tags in a masterlist managed by volunteers, meaning that it's impossible to account for every single mod and combination of them.
 The main issue regarding LOOT in most Bethesda games is that its masterlists are often outdated or incomplete, leading to broken load orders that will cause mods to misbehave. Oblivion is an exception where LOOT tends to work more reliably. 
 
