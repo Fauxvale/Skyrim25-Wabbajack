@@ -37,7 +37,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 ## Mesh and Texture Polish
 
 - [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) - A core mesh upgrade that improves countless objects, clutter pieces, and architectural details. Makes the game look slightly more modern.
-- [SMIM 4K - Cleaned and Upscaled Textures for Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/68305) - Use the **2k1k for baked potatoes** file.
+- [SMIM 4K - Cleaned and Upscaled Textures for Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/69158) - Use the **2k1k for baked potatoes** file.
 - [Major Cities Mesh Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49259) - Improves meshes and some textures in the major cities, making those areas look more polished.
 - [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027) - Corrects material data errors that can affect footsteps, impact sounds, sparks, and arrow behavior.
 - [Static Mesh Improvement Mod Improvement Mod (SMIMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/67954) - Adds another layer of object cleanup for users who want more SMIM-style consistency.
@@ -50,7 +50,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [Detailed Rugs](https://www.nexusmods.com/skyrimspecialedition/mods/9030) - Adds vanilla-adjacent lore-friendly high-resolution rug textures and improved meshes.
 - [Various 3D Trellis mods](https://www.nexusmods.com/games/skyrimspecialedition/mods?keyword=trellis&sort=endorsements) - Better if you want trellises to look like real 3D objects instead of thin flat pieces.
 - [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583) - Helps smooth out gradient effects.
-- [Seamless Cubemaps](www.nexusmods.com/skyrimspecialedition/mods/84331) - Reduces reflection seams on shiny materials.
+- [Seamless Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/84331) - Reduces reflection seams on shiny materials.
 - [Seamless Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/154408) - Improves dynamic reflections so they blend more naturally.
 - [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322) - Replaces forge water with a mesh-only animated version that adds refraction and a nicer visual effect without needing an ESP.
 
