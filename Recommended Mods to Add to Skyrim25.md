@@ -40,7 +40,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [SMIM 4K - Cleaned and Upscaled Textures for Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/69158) - Use the **2k1k for baked potatoes** file.
 - [Major Cities Mesh Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49259) - Improves meshes and some textures in the major cities, making those areas look more polished.
 - [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027) - Corrects material data errors that can affect footsteps, impact sounds, sparks, and arrow behavior.
-- [Static Mesh Improvement Mod Improvement Mod (SMIMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/67954) - Adds another layer of object cleanup for users who want more SMIM-style consistency.
+- [Static Mesh Improvement Mod Improvement Mod (SMIMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/55543) - Adds another layer of object cleanup for users who want more SMIM-style consistency.
 - [Reikling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/68062) - Helps extend SMIM-style treatment to Reikling barrels.
 - [SMIM Barrel Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/68061) - Adds more barrel variety and consistency to a SMIM-focused setup.
 - [Whiterun - Dragonsreach Railings SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/168840) - A targeted city-detail fix that helps specific railings match other upgraded meshes.
