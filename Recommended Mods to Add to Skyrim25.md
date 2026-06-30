@@ -42,7 +42,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027) - Corrects material data errors that can affect footsteps, impact sounds, sparks, and arrow behavior.
 - [Static Mesh Improvement Mod Improvement Mod (SMIMIM)](https://www.nexusmods.com/skyrimspecialedition/mods/55543) - Adds another layer of object cleanup for users who want more SMIM-style consistency.
 - [Reikling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306) - Helps extend SMIM-style treatment to Reikling barrels.
-- [SMIM Barrel Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/68061) - Adds more barrel variety and consistency to a SMIM-focused setup.
+- [SMIM Barrel Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/67676) - Adds more barrel variety and consistency to a SMIM-focused setup.
 - [Whiterun - Dragonsreach Railings SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/168840) - A targeted city-detail fix that helps specific railings match other upgraded meshes.
 - [Whiterun 3D stone walls](https://www.nexusmods.com/skyrimspecialedition/mods/139069) - Replaces flatter wall geometry with more dimensional stonework.
 - [Xavbio's Retextures](https://www.nexusmods.com/profile/xavbio/mods?gameId=1704) - High-quality retextures (armours, weapons, clothing, and more) that are a solid addition to any vanilla-plus setup.
