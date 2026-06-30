@@ -66,7 +66,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144) - Improves Solstheim's ash and moss surfaces.
 - [FixTheFuckingSnow - Fix Candlehall and Palace of the Kings stretched snow - Actually consistent snow coverage 14 YEARS LATER](https://www.nexusmods.com/skyrimspecialedition/mods/148199) - Fixes a very specific stretched-snow issue on Candlehearth Hall and the Palace of Kings. Make sure to pick the right version for the mods you're using.
 - [Enhanced Rocks and Mountains (ERM)](https://www.nexusmods.com/skyrimspecialedition/mods/121336) - Improves rock and mountain surfaces for an improved material look. I reccomend the Main File and "Blended ERM".
-- [Blended Roads](www.nexusmods.com/skyrimspecialedition/mods/8834) - Makes roads blend better into the terrain. I recommend the "REALly blended" option in the FOMOD.
+- [Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834) - Makes roads blend better into the terrain. I recommend the "REALly blended" option in the FOMOD.
 - [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643) - Patches small blended roads inconsistencies.
 - [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032) - Smooths out road surfaces with BOS - highly compatible.
 - [Simplicity of Sea (Water Mod)](https://www.nexusmods.com/skyrimspecialedition/mods/56520) and [Davo0411's Addon for it](https://www.nexusmods.com/skyrimspecialedition/mods/148761) - Light, clean sea-water visuals that fit a vanilla-plus setup.
