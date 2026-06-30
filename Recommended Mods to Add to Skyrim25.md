@@ -122,7 +122,7 @@ Skyrim25 by default does not include any Alternate Start mod, and if you've play
 ## Animation Frameworks
 You probably want one of these if you plan on doing anything that modifies animations:
 - [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main) - Best when you want the safest compatibility with older animation-based mods.
-- [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133575) - Often easier to use and more modern, but some setups still run better on Nemesis.
+- [Pandora](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus) - Often easier to use and more modern, but some setups still run better on Nemesis.
 
 ### Note on Nemesis vs. Pandora
 
