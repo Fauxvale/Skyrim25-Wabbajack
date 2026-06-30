@@ -64,7 +64,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 
 - [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235) - Makes snow rendering more consistent and visually clean.
 - [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144) - Improves Solstheim's ash and moss surfaces.
-- [FixTheFuckingSnow - Fix Candlehall and Palace of the Kings stretched snow - Actually consistent snow coverage 14 YEARS LATER](https://www.nexusmods.com/skyrimspecialedition/mods/148199) - Fixes a very specific stretched-snow issue on tCandlehearth Hall and the Palace of Kings. Make sure to pick the right version for the mods you're using.
+- [FixTheFuckingSnow - Fix Candlehall and Palace of the Kings stretched snow - Actually consistent snow coverage 14 YEARS LATER](https://www.nexusmods.com/skyrimspecialedition/mods/148199) - Fixes a very specific stretched-snow issue on Candlehearth Hall and the Palace of Kings. Make sure to pick the right version for the mods you're using.
 - [Enhanced Rocks and Mountains (ERM)](https://www.nexusmods.com/skyrimspecialedition/mods/121336) - Improves rock and mountain surfaces for an improved material look. I reccomend the Main File and "Blended ERM".
 - [Blended Roads](www.nexusmods.com/skyrimspecialedition/mods/8834) - Makes roads blend better into the terrain. I recommend the "REALly blended" option in the FOMOD.
 - [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643) - Patches small blended roads inconsistencies.
