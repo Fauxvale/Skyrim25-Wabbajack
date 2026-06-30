@@ -46,7 +46,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [Whiterun - Dragonsreach Railings SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/168840) - A targeted city-detail fix that helps specific railings match other upgraded meshes.
 - [Whiterun 3D stone walls](https://www.nexusmods.com/skyrimspecialedition/mods/139069) - Replaces flatter wall geometry with more dimensional stonework.
 - [Xavbio's Retextures](https://www.nexusmods.com/profile/xavbio/mods?gameId=1704) - High-quality retextures (armours, weapons, clothing, and more) that are a solid addition to any vanilla-plus setup.
-- [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901) - Improves the appearance of books. I recommend the "desaturated" file, as well as the [Normal Map Fix](www.nexusmods.com/skyrimspecialedition/mods/68934)
+- [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901) - Improves the appearance of books. I recommend the "desaturated" file, as well as the [Normal Map Fix](https://www.nexusmods.com/skyrimspecialedition/mods/68934)
 - [Detailed Rugs](https://www.nexusmods.com/skyrimspecialedition/mods/9030) - Adds vanilla-adjacent lore-friendly high-resolution rug textures and improved meshes.
 - [Various 3D Trellis mods](https://www.nexusmods.com/games/skyrimspecialedition/mods?keyword=trellis&sort=endorsements) - Better if you want trellises to look like real 3D objects instead of thin flat pieces.
 - [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583) - Helps smooth out gradient effects.
