@@ -69,7 +69,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 - [Blended Roads](www.nexusmods.com/skyrimspecialedition/mods/8834) - Makes roads blend better into the terrain. I recommend the "REALly blended" option in the FOMOD.
 - [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643) - Patches small blended roads inconsistencies.
 - [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032) - Smooths out road surfaces with BOS - highly compatible.
-- [Simplicity of Sea (Water Mod)](https://www.nexusmods.com/skyrimspecialedition/mods/56520) and [Davo0411's Addon for it](www.nexusmods.com/skyrimspecialedition/mods/148761) - Light, clean sea-water visuals that fit a vanilla-plus setup.
+- [Simplicity of Sea (Water Mod)](https://www.nexusmods.com/skyrimspecialedition/mods/56520) and [Davo0411's Addon for it](https://www.nexusmods.com/skyrimspecialedition/mods/148761) - Light, clean sea-water visuals that fit a vanilla-plus setup.
 
 ## Community Shaders
 
