@@ -58,7 +58,7 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 
 - [FYX / ALT by Yuril](https://www.nexusmods.com/profile/Yuril/mods?gameId=1704) - Use the profile link to browse the full set of mesh-fix mods you want.
 - [Anything by wSkeever](https://www.nexusmods.com/profile/wSkeever/mods?gameId=1704) 
-- [Any mesh improvements by Pieter82](https://www.nexusmods.com/profile/Pieter82/mods?gameId=1704)
+- [Any mesh improvements by Pieter82](https://www.nexusmods.com/profile/Pieter82/mods?gameId=1704) - People should pick and choose carefully from Pieter82’s mods because his meshes can be quite heavy.
 
 ## Landscapes
 
