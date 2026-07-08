@@ -13,6 +13,35 @@
 </p>
 
 ## Releases
+# Version 3.0.2
+
+### Summary
+- **Added:** 2 mods
+- **Removed:** 1 mods
+- **Updated:** 2 mods
+
+## Added Mods
+
+- Classic Sprinting Redone (SKSE64)
+
+## Removed Mods
+
+- Removed Endorsement Helper MO2 Plugin by Bottle
+- Removed Auto Activator MO2 Plugin
+
+## Updated Mods
+
+- Updated Synthesis and re-ran patcher
+- Crash Logger SSE AE VR - PDB support: 1.23.2 → 1.24
+
+## Other Changes
+
+Fixed some mods showing up at the bottom of the mods list instead of their correct separators.
+
+# Version 3.0.1
+
+Fixed compilation error with MO2 gradient separators. List should be installable again.
+
 # Version 3.0.0
 
 ## Summary
