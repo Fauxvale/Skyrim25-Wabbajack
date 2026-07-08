@@ -42,6 +42,7 @@ Skyrim25 ships with a handful of optional mods you can choose to enable/disable 
  - Smaller Vanilla Cursors SE
  - Modex - A Mod Explorer Menu (AddItemMenu)
  - Consistent Sensitivity Overhaul
+ - Classic Sprinting Redone (SKSE64)
 
 They can all be individually enabled or disabled as you see fit by clicking the checkbox to the left of the mod name in MO2:
 
