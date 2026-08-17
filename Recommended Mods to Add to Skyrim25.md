@@ -74,16 +74,22 @@ _Note: Many essential mods are already included in Skyrim25 and are not listed h
 ## Community Shaders
 
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - A free, open-source rendering framework that modernizes Skyrim's graphics pipeline and serves as the base for many newer visual add-ons.
+- [Effects 11](https://www.nexusmods.com/skyrimspecialedition/mods/179824) - A Community Shaders feature by doodlum that adds support for **almost every ENB preset on Nexus**, with built-in open-source replacements for the core functionality of ENB Helper and ENB Extender. Think of it as Skyrim's version of Iris Shaders for OptiFine. It also brings light-reactive particle shaders, physically based rain, Auto HDR (via Pumbo Auto HDR), and reimplementations of ENB Volumetric Rays and Procedural Sun with essentially no performance cost. Presets are auto-patched to disable unsupported effects like letterboxing, blur, and sharpening, and can be installed into the Data folder with your mod manager instead of the game root, so you can toggle them like any other mod.
+  - **Do not install ENBSeries alongside it.** Effects 11 is a complete replacement for ENB and is incompatible with it. **KiLoader is also incompatible** and is not needed.
+  - Known gaps: Picta - Weathers of Aurbis - Repainted is unsupported (it relies on ENB Worldspace Weatherlists and other preset-specific features), heavy ENB Sky Scattering isn't supported, and some presets may need minor tweaking. Silent Horizons 2 still needs [ENB Extender and Helper](https://www.nexusmods.com/skyrimspecialedition/mods/99406) installed to extract its decryption key.
 
 ## ENB
 
 - [ENB](https://enbdev.com/) - A long-standing graphics framework used to apply advanced post-processing, lighting, and color effects to Skyrim.
+- [ENB presets on Nexus](https://www.nexusmods.com/games/skyrimspecialedition/mods?tag=ENB+Preset) - Worth browsing even if you're going the Community Shaders route, since **Effects 11** (see above) lets you run almost any of these on top of CS without installing ENBSeries at all.
 
 ### Note on Community Shaders vs ENB
 
 Community Shaders is usually the better pick if you want a lighter, more modular setup with strong modern support and easier compatibility with a vanilla-plus modlist. ENB is still the more established option for presets and such, but CS is more modern and made by someone who isn't a [bigot](https://www.reddit.com/r/skyrimmods/comments/15sacyi/ootl_why_the_fuck_is_there_a_weird_mildly/).
 
 As of June 2026, Community Shaders is the more future-facing framework, especially as it continues adding features like native HDR support and new rendering extensions. ENB remains the "classic" choice for users who care most about a heavily stylized final image and are willing to pay for it in performance and complexity. ENB also **does not support** PBR, while CS does with it's TruePBR module *(included in the Core download)*.
+
+Since **Effects 11** released in August 2026, this is much less of an either/or choice than it used to be. It's an open-source reimplementation that runs almost every ENB preset on top of Community Shaders, so you can have the preset you like without ENBSeries, and keep PBR and the rest of the CS feature set at the same time. If you were only sticking with ENB for a specific preset, check whether Effects 11 supports it first - if it does, that's the setup I'd recommend. Just remember the two frameworks can't coexist: it's Effects 11 **or** ENBSeries, never both.
 
 ## Combat and HUD
 
