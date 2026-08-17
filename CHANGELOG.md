@@ -13,6 +13,65 @@
 </p>
 
 ## Releases
+# Version 3.0.4
+
+### Summary
+- **Added:** 1 mods
+- **Removed:** 6 mods
+- **Updated:** 0 mods
+
+## Added Mods
+
+- Unofficial High Definition Audio Project (UHDAP) - Music Only (note: voice files removed; too large and not properly mastered)
+
+## Removed Mods
+
+- Cleaned Skyrim SE Textures (very little visual gain for almost a quarter of the list's size)
+- Creation Club Anniversary Cleaned (see Cleaned Skyrim SE Textures)
+- Face Discoloration Fix (covers up a bug which should be fixed instead of being ignored - the discoloration bug does not occur in base Skyrim25)
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO (redundant)
+- Unofficial High Definition Audio Project (UHDAP) (see added mods section)
+- Vanilla Script (micro)Optimizations (redundant)
+
+## Updated Mods
+
+No mods updated.
+
+## Other Changes
+Reduced list's overall file size by over 15 GB.
+
+# Version 3.0.3
+
+### Summary
+- **Added:** 1 mod
+- **Removed:** 1 mod
+- **Updated:** 8 mods
+
+## Added Mods
+
+- Map Menu Clouds Fix
+
+## Removed Mods
+
+- Cleaned Skyrim SE Textures - Snow Patch (redundant)
+
+## Updated Mods
+
+- Auto Input Switch: 1.2.3 → 1.3
+- Navigator - Navmesh Fixes: 1.8.1 → 1.8.3
+- powerofthree's Papyrus Extender: 6.4 → 6.4.3
+- powerofthree's Tweaks: 1.15.1 → 1.16
+- SkyPatcher: 6.4.2 → 7.0
+- Spell Perk Item Distributor (SPID): 7.3.1 → 7.3.2
+- Unofficial Skyrim Creation Club Content Patches (USCCCP): 8.2 → 8.5
+- Zero Bounty Hostility Fix SKSE: 0.6 → 0.7
+
+## Other Changes
+- Updated Creation Kit Platform Extended for Skyrim
+- Updated Synthesis
+- Updated Synthesis Output for AE profile
+- Fixed error in Hide Buttons MO2 Plugin (\plugins\HideButtonsBiggieEdition.py)
+
 # Version 3.0.2
 
 ### Summary
