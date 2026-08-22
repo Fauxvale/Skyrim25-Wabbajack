@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fauxvale/Skyrim25-Wabbajack/main/Skyrim25.webp",
       "readme": "https://github.com/Fauxvale/Skyrim25-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim25.wabbajack_06f45f17-2d02-4336-b831-e897f459f919",
+      "download": "https://authored-files.wabbajack.org/Skyrim25.wabbajack_3ac1a9f2-b375-4386-b727-ff5dda6cbe91",
       "machineURL": "Skyrim25",
       "discordURL": "https://discord.gg/Z99KaaGNgU",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "padNFkFVbv4=",
-      "Size": 39073987,
+      "Hash": "nVS3BF+sYsQ=",
+      "Size": 397481324,
       "NumberOfArchives": 475,
-      "SizeOfArchives": 22642582952,
-      "NumberOfInstalledFiles": 21423,
-      "SizeOfInstalledFiles": 25383771836,
-      "TotalSize": 48026354788
+      "SizeOfArchives": 22640275327,
+      "NumberOfInstalledFiles": 94447,
+      "SizeOfInstalledFiles": 35683248781,
+      "TotalSize": 58323524108
     },
     "version": "3.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-17T02:23:18.4436348Z",
+    "dateUpdated": "2026-08-22T19:42:37.0060137Z",
     "repositoryName": ""
   }
 ]
