@@ -62,7 +62,7 @@ Additionally, Skyrim25 requires approximately **57GB** of free disk space (aroun
 ### Prerequisites
 - You must own [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/) (the full upgrade, not just SE!) on Steam. While the AE Creation Club content is optional, it is still needed to properly install the list. Sorry!
 - Download and install the [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) from Steam. Make sure to install to the same path as your Skyrim install.
-- You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
+- You are running an **up-to-date version of Windows or Linux**. If on Windows, download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
     - [.NET Desktop Runtime 8.X.X x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
@@ -90,6 +90,7 @@ Then follow these steps:
    - Method 2 (from Nexus): Obtain the `Skyrim25.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/161779). Make sure to unzip the downloaded file.
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_Installing a Modlist_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
+4. **If/When you are prompted to fetch game files from Steam, do so. Wabbajack has been updated and should now be able to handle any versioning issues automatically.**
 
 ### If Installation Fails:
 Try *closing wabbajack completely* and restart the process from step 2 above ("Get Skyrim25"). Due to a bug with Wabbajack, using the "Retry" button is currently not reccomended and may cause unforseen issues.
